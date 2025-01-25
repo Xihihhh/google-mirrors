@@ -1,2 +1,2 @@
 # gg-mirrors
-收集自网络的镜像。部分来自[mirror.js.org](https://github.com/Heroic-Studio/Google-Mirrors)
+因为异常流量检测，所有镜像失效。
